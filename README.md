@@ -30,11 +30,11 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 
 ## Setup Guide
 
-In the Windows-Searchbar, type Terminal and press enter.
-Click on the down-arrow in the Tab-bar and select "Settings".
-Click the button next to the "Default terminal application" and select "Windows Console Host".
-You can close the window now.
-Download and extract the ZIP-File from the releases tab.
-Double-Click the `MineSharp.exe` file.
-Press `Sign In`, if you don't want to play cracked
+In the Windows-Searchbar, type Terminal and press enter.\
+Click on the down-arrow in the Tab-bar and select "Settings".\
+Click the button next to the "Default terminal application" and select "Windows Console Host".\
+You can close the window now.\
+Download and extract the ZIP-File from the releases tab.\
+Double-Click the `MineSharp.exe` file.\
+Press `Sign In`, if you don't want to play cracked\
 The rest is probably similar to any other launcher... Just way worse!
