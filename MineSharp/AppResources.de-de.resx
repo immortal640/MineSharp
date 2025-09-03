@@ -1,0 +1,83 @@
+﻿<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Account" xml:space="preserve">
+        <value>Account</value>
+    </data>
+    <data name="Account_SignIn" xml:space="preserve">
+        <value>Anmelden</value>
+    </data>
+    <data name="Account_SignIn_TempCracked_Text" xml:space="preserve">
+        <value>Leider hat es Microsoft seher schwer gemacht, Applikationen für XBOX-OAuth zu registrieren. Trotzdem habe ich die App für eine manuelle Bewertung eingereicht. Momentan bleibt Minecraft gecrackt.</value>
+    </data>
+    <data name="Account_SignIn_TempCracked_Title" xml:space="preserve">
+        <value>Microsoft LogIn nicht möglich</value>
+    </data>
+    <data name="Instance_Create" xml:space="preserve">
+        <value>Neue Instanz</value>
+    </data>
+    <data name="Instance_Start" xml:space="preserve">
+        <value>Starten</value>
+    </data>
+    <data name="Instance_StartRandom" xml:space="preserve">
+        <value>Auf gut Glück!</value>
+    </data>
+    <data name="Settings" xml:space="preserve">
+        <value>Einstellungen</value>
+    </data>
+    <data name="Instance_Create_Name" xml:space="preserve">
+        <value>Instanzname . . .</value>
+    </data>
+    <data name="Instance_Create_Version" xml:space="preserve">
+        <value>Minecraft Version . . .</value>
+    </data>
+    <data name="Instance_Create_ModLoader" xml:space="preserve">
+        <value>Mod Loader . . .</value>
+    </data>
+    <data name="Finish" xml:space="preserve">
+        <value>Fertig</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        <value>Abbrechen</value>
+    </data>
+    <data name="Instance_Delete" xml:space="preserve">
+        <value>Löschen</value>
+    </data>
+    <data name="Instance_Edit" xml:space="preserve">
+        <value>Bearbeiten</value>
+    </data>
+    <data name="Instance_OpenFolder" xml:space="preserve">
+        <value>Ordner Öffnen</value>
+    </data>
+    <data name="Instance_Stop" xml:space="preserve">
+        <value>Stoppen</value>
+    </data>
+    <data name="Instance_Delete_Continue_Title" xml:space="preserve">
+        <value>Möchten Sie wirklich fortfahren?</value>
+    </data>
+    <data name="Instance_Delete_Continue_Text" xml:space="preserve">
+        <value>Diese Instanz wird für immer gelöscht! (Eine lange Zeit!)</value>
+    </data>
+    <data name="Message_NotImplemented_Title" xml:space="preserve">
+        <value>Nicht Implementiert</value>
+    </data>
+    <data name="Message_NotImplemented_Text" xml:space="preserve">
+        <value>Leider ist dieses Feature noch nicht implementiert. Bitte warten Sie auf die nächsten Updates. Ich arbeite Möglicherweise gerade daran.</value>
+    </data>
+    <data name="Instance_Create_Info_Version" xml:space="preserve">
+        <value>Es konnte keine Version mit dieser Versionsnummer gefunden worden!</value>
+    </data>
+    <data name="Instance_Create_Info_Name" xml:space="preserve">
+        <value>Name kann nicht leer sein!</value>
+    </data>
+</root>

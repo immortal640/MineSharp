@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423B36FA-6A86-48A4-9F1A-9E6670484322}|MineSharp\\MineSharp.csproj|c:\\users\\immortal640\\riderprojects\\minesharp\\minesharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423B36FA-6A86-48A4-9F1A-9E6670484322}|MineSharp\\MineSharp.csproj|solutionrelative:minesharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423B36FA-6A86-48A4-9F1A-9E6670484322}|MineSharp\\MineSharp.csproj|c:\\users\\immortal640\\riderprojects\\minesharp\\minesharp\\appresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{423B36FA-6A86-48A4-9F1A-9E6670484322}|MineSharp\\MineSharp.csproj|solutionrelative:minesharp\\appresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14F9BE9-6D74-4C64-AFE8-BC2C3DB81C5D}|MineSharpStarter\\MineSharpStarter.csproj|c:\\users\\immortal640\\riderprojects\\minesharp\\minesharpstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14F9BE9-6D74-4C64-AFE8-BC2C3DB81C5D}|MineSharpStarter\\MineSharpStarter.csproj|solutionrelative:minesharpstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\MineSharpStarter\\Program.cs",
+              "RelativeDocumentMoniker": "MineSharpStarter\\Program.cs",
+              "ToolTip": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\MineSharpStarter\\Program.cs",
+              "RelativeToolTip": "MineSharpStarter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:36:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppResources.resx",
+              "DocumentMoniker": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\MineSharp\\AppResources.resx",
+              "RelativeDocumentMoniker": "MineSharp\\AppResources.resx",
+              "ToolTip": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\MineSharp\\AppResources.resx",
+              "RelativeToolTip": "MineSharp\\AppResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-14T10:16:17.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\MineSharp\\Program.cs",
+              "RelativeDocumentMoniker": "MineSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Immortal640\\RiderProjects\\MineSharp\\MineSharp\\Program.cs",
+              "RelativeToolTip": "MineSharp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:33:52.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

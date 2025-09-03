@@ -1,0 +1,14 @@
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\bin\Debug\net8.0\MineSharpStarter.exe
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\bin\Debug\net8.0\MineSharpStarter.deps.json
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\bin\Debug\net8.0\MineSharpStarter.runtimeconfig.json
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\bin\Debug\net8.0\MineSharpStarter.dll
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\bin\Debug\net8.0\MineSharpStarter.pdb
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.AssemblyInfoInputs.cache
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.AssemblyInfo.cs
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.csproj.CoreCompileInputs.cache
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.dll
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\refint\MineSharpStarter.dll
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.pdb
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\MineSharpStarter.genruntimeconfig.cache
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharpStarter\obj\Debug\net8.0\ref\MineSharpStarter.dll
