@@ -1,8 +1,12 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
-using System.Runtime.InteropServices;
+using System.IO;
 using System.Text;
-using System.Text.Json.Serialization;
+using System.Text.Json;
+using System.Threading;
+using System.Threading.Tasks;
 
 using Windows.Win32;
 using Windows.Win32.Foundation;
@@ -55,7 +59,7 @@ namespace MineSharp
 			Console.SetBufferSize(Console.WindowWidth, Console.WindowHeight);
 			Input.Initialize();
 			CURSOR.Initialize();
-			Console.Title = "MineSharp  -  Public Beta";
+			Console.Title = $"MineSharp  -  Public Beta          |          {AppResources.TitleBar_Subscribe}";
 			Console.Clear();
 			CURSOR.Shn = false;
 

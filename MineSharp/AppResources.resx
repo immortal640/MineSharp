@@ -216,4 +216,7 @@
   <data name="Instance_Edit_Memory" xml:space="preserve">
     <value>Memory (MiB)</value>
   </data>
+  <data name="TitleBar_Subscribe" xml:space="preserve">
+    <value>SUBSCRIBE TO KASAISORA!!!</value>
+  </data>
 </root>

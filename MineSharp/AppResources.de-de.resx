@@ -101,4 +101,7 @@
     <data name="Instance_Edit_Window" xml:space="preserve">
         <value>Fenster</value>
     </data>
+    <data name="TitleBar_Subscribe" xml:space="preserve">
+        <value>ABONNIERT KASAISORA!!!</value>
+    </data>
 </root>

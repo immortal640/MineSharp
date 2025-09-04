@@ -355,5 +355,14 @@ namespace MineSharp {
                 return ResourceManager.GetString("Settings", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SUBSCRIBE TO KASAISORA!!!.
+        /// </summary>
+        internal static string TitleBar_Subscribe {
+            get {
+                return ResourceManager.GetString("TitleBar_Subscribe", resourceCulture);
+            }
+        }
     }
 }
