@@ -42,4 +42,4 @@ C:\Users\Immortal640\RiderProjects\MineSharp\MineSharp\obj\Debug\net9.0\refint\M
 C:\Users\Immortal640\RiderProjects\MineSharp\MineSharp\obj\Debug\net9.0\MineSharp.pdb
 C:\Users\Immortal640\RiderProjects\MineSharp\MineSharp\obj\Debug\net9.0\MineSharp.genruntimeconfig.cache
 C:\Users\Immortal640\RiderProjects\MineSharp\MineSharp\obj\Debug\net9.0\ref\MineSharp.dll
-C:\Users\Immortal640\RiderProjects\MineSharp\MineSharp\obj\Debug\net9.0\de-de\MineSharp.resources.cs
+C:\Users\Immortal640\RiderProjects\MineSharp\MineSharp\obj\Debug\net9.0\MineSharp.sourcelink.json

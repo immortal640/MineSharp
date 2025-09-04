@@ -80,4 +80,25 @@
     <data name="Instance_Create_Info_Name" xml:space="preserve">
         <value>Name kann nicht leer sein!</value>
     </data>
+    <data name="Instance_Edit_General" xml:space="preserve">
+        <value>Allgemein</value>
+    </data>
+    <data name="Instance_Edit_Height" xml:space="preserve">
+        <value>Höhe</value>
+    </data>
+    <data name="Instance_Edit_Java" xml:space="preserve">
+        <value>Java und Arbeitsspeicher</value>
+    </data>
+    <data name="Instance_Edit_Memory" xml:space="preserve">
+        <value>Arbeitsspeicher (MiB)</value>
+    </data>
+    <data name="Instance_Edit_Name" xml:space="preserve">
+        <value>Instanzname . . .</value>
+    </data>
+    <data name="Instance_Edit_Width" xml:space="preserve">
+        <value>Breite</value>
+    </data>
+    <data name="Instance_Edit_Window" xml:space="preserve">
+        <value>Fenster</value>
+    </data>
 </root>
