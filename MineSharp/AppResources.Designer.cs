@@ -213,7 +213,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to General.
         /// </summary>
         internal static string Instance_Edit_General {
             get {
@@ -222,7 +222,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Height.
         /// </summary>
         internal static string Instance_Edit_Height {
             get {
@@ -231,7 +231,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Java and Memory.
         /// </summary>
         internal static string Instance_Edit_Java {
             get {
@@ -240,7 +240,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Memory (MiB).
         /// </summary>
         internal static string Instance_Edit_Memory {
             get {
@@ -249,7 +249,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Instance Name . . ..
         /// </summary>
         internal static string Instance_Edit_Name {
             get {
@@ -258,7 +258,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Width.
         /// </summary>
         internal static string Instance_Edit_Width {
             get {
@@ -267,7 +267,7 @@ namespace MineSharp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Window.
         /// </summary>
         internal static string Instance_Edit_Window {
             get {

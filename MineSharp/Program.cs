@@ -605,8 +605,23 @@ namespace MineSharp
 					IVersion version = Launcher.GetVersionAsync(input_Instance_Create_Version.Text).GetAwaiter().GetResult();
 					Profile profile = new Profile(input_Instance_Create_Name.Text, version, new MLaunchOption
 					{
-						Session = MSession.CreateOfflineSession("Immortal640"),
-						MaximumRamMb = 2048
+						Session = MSession.CreateOfflineSession("gamer123"),
+						Features = new string[] { },
+
+						JavaPath = "javaw.exe",
+						MaximumRamMb = 4096,
+						MinimumRamMb = 1024,
+
+						IsDemo = false,
+						ScreenWidth = 854,
+						ScreenHeight = 480,
+						FullScreen = false,
+
+						ClientId = "clientid",
+						VersionType = "CmlLib",
+						GameLauncherName = "MineSharp",
+						GameLauncherVersion = "PB1.1",
+						UserProperties = "{}"
 					}, radio_Instance_Create_ModLoader.Result);
 					Profiles.Add(profile);
 					SelectedInstance = Profiles.Count - 1;
@@ -660,9 +675,10 @@ namespace MineSharp
 			TextInput input_Instance_Edit_Name = new TextInput
 			{
 				Position = new Point(3, 2), Size = new Size(Console.WindowWidth - 5, 3),
-				PreviewText = AppResources.Instance_Edit_Name ,Text = Profiles[SelectedInstance].DisplayName, LineWrap = false,
+				PreviewText = AppResources.Instance_Edit_Name, LineWrap = false,
 				Enabled = true, Visible = true
 			};
+			input_Instance_Edit_Name.Text = Profiles[SelectedInstance].DisplayName;
 			// INSTALLATION
 			// WINDOW
 			TextBlock text_Instance_Edit_Window = new TextBlock
@@ -675,15 +691,17 @@ namespace MineSharp
 			TextInput input_Instance_Edit_Width = new TextInput
 			{
 				Position = new Point(3, 7), Size = new Size(Console.WindowWidth / 2 - 2, 3),
-				PreviewText = AppResources.Instance_Edit_Width ,Text = Profiles[SelectedInstance].LaunchOption.ScreenWidth.ToString(), LineWrap = false,
+				PreviewText = AppResources.Instance_Edit_Width, LineWrap = false,
 				Enabled = true, Visible = true
 			};
+			input_Instance_Edit_Width.Text = Profiles[SelectedInstance].LaunchOption.ScreenWidth.ToString();
 			TextInput input_Instance_Edit_Height = new TextInput
 			{
 				Position = new Point(Console.WindowWidth / 2 + 3, 7), Size = new Size(Console.WindowWidth / 2 - 5, 3),
-				PreviewText = AppResources.Instance_Edit_Height ,Text = Profiles[SelectedInstance].LaunchOption.ScreenHeight.ToString(), LineWrap = false,
+				PreviewText = AppResources.Instance_Edit_Height, LineWrap = false,
 				Enabled = true, Visible = true
 			};
+			input_Instance_Edit_Height.Text = Profiles[SelectedInstance].LaunchOption.ScreenHeight.ToString();
 			// JAVA AND MEMORY
 			TextBlock text_Instance_Edit_Java = new TextBlock
 			{
@@ -695,9 +713,10 @@ namespace MineSharp
 			TextInput input_Instance_Edit_Memory = new TextInput
 			{
 				Position = new Point(3, 12), Size = new Size(Console.WindowWidth - 5, 3),
-				PreviewText = AppResources.Instance_Edit_Memory, Text = Profiles[SelectedInstance].LaunchOption.MaximumRamMb.ToString(), LineWrap = false,
+				PreviewText = AppResources.Instance_Edit_Memory, LineWrap = false,
 				Enabled = true, Visible = true
 			};
+			input_Instance_Edit_Memory.Text = Profiles[SelectedInstance].LaunchOption.MaximumRamMb.ToString();
 			// LAUNCH HOOKS
 			// FINISH
 			Button button_Instance_Edit_Finish = new Button
@@ -716,7 +735,7 @@ namespace MineSharp
 			TextBlock text_Instance_Edit_Info = new TextBlock
 			{
 				Position = new Point(3, 23), Size = new Size(Console.WindowWidth - 3, 1),
-				Text = "test", LineWrap = false,
+				Text = "", LineWrap = false,
 				ForegroundColor = ConsoleColor.Red, BackgroundColor = ConsoleColor.Black,
 				Visible = true
 			};
