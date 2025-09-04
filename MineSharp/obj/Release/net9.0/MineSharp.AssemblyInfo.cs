@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MineSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b31067507b83b9a0311878f28d8bb391bbdbcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a7986e57994c5c0c3293e90d6330637c754bcdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MineSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MineSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

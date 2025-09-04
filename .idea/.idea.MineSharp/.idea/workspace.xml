@@ -8,55 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63cdd83e-d009-4c81-8b40-9592aed88bd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MineSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MineSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/AppResources.de-de.resx" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/AppResources.de-de.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.Tools.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.Tools.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.Tools.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.Tools.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/CGUI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/de-de/MineSharp.resources.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.Tools.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.Tools.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.Tools.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.Tools.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/CGUI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/de-de/MineSharp.resources.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.AppResources.resources" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.AppResources.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.csproj.GenerateResource.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/MineSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/de-de/MineSharp.resources.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/de-de/MineSharp.resources.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/ref/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/ref/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/refint/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Debug/net9.0/refint/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AppResources.de-de.resources" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AppResources.de-de.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/ref/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/ref/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/refint/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/refint/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharpStarter/obj/Debug/net8.0/MineSharpStarter.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharpStarter/obj/Debug/net8.0/MineSharpStarter.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharpStarter/obj/Debug/net8.0/MineSharpStarter.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharpStarter/obj/Debug/net8.0/MineSharpStarter.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharpStarter/obj/Release/net8.0/MineSharpStarter.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharpStarter/obj/Release/net8.0/MineSharpStarter.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharpStarter/obj/Release/net8.0/MineSharpStarter.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharpStarter/obj/Release/net8.0/MineSharpStarter.AssemblyInfoInputs.cache" afterDir="false" />
-    </list>
+    <list default="true" id="63cdd83e-d009-4c81-8b40-9592aed88bd0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,24 +66,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.MineSharp.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.MineSharp.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.MineSharp">
     <configuration name="MineSharp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/MineSharp/bin/Debug/net9.0/MineSharp.exe" />
@@ -229,7 +180,7 @@
       <workItem from="1756910343617" duration="1589000" />
       <workItem from="1756984311046" duration="4887000" />
       <workItem from="1756989296592" duration="1265000" />
-      <workItem from="1756993424006" duration="1405000" />
+      <workItem from="1756993424006" duration="1965000" />
     </task>
     <task id="LOCAL−00001" summary="Idk anymore...">
       <option name="closed" value="true" />
@@ -273,7 +224,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1756989484495</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Update German translation">
+      <option name="closed" value="true" />
+      <created>1756994937872</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1756994937872</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +257,8 @@
     <MESSAGE value="Small changes in the TextInput logic" />
     <MESSAGE value="Add text to 'Edit' page" />
     <MESSAGE value="Internal changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Internal changes" />
+    <MESSAGE value="Update German translation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update German translation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
