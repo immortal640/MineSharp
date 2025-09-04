@@ -1,0 +1,6 @@
+# IDE specific
+.idea/
+.vs/
+
+# can contain private info
+MineSharp.sln.DotSettings.user
