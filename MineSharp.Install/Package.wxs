@@ -1,0 +1,14 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs" xmlns:ui="http://wixtoolset.org/schemas/v4/wxs/ui">
+	<Package Id="Immortal640.MineSharp.Install" Name="MineSharp" Manufacturer="Immortal640" Version="1.0.0" UpgradeCode="66bc8504-94e8-4f26-9d62-f3451241ee0b">
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)"/>
+		
+		<MediaTemplate EmbedCab="true"/>
+		
+		<Feature Id="Main">
+			<ComponentGroupRef Id="AppComponents"/>
+		</Feature>
+		
+		<ui:WixUI Id="WixUI_InstallDir" InstallDirectory="INSTALLFOLDER"/>
+		<WixVariable Id="WixUIBannerBmp" Value="WixUIBannerBmp.bmp"/>
+	</Package>
+</Wix>

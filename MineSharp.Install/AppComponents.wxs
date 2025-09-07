@@ -1,0 +1,34 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Fragment>
+			<ComponentGroup Id="AppComponents" Directory="INSTALLFOLDER">
+				<Component Guid="40ed47a8-5714-400f-b23f-856aabca11f2">
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\de-de\MineSharp.resources.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CGUI.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CGUI.Tools.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CGUI.Tools.xml"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CmlLib.Core.Auth.Microsoft.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CmlLib.Core.Bedrock.Auth.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CmlLib.Core.Commons.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CmlLib.Core.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\CmlLib.Core.Installer.Forge.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\HtmlAgilityPack.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\ICSharpCode.SharpZipLib.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Abstractions.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\MineSharp.deps.json"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\MineSharp.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\MineSharp.exe"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\MineSharp.runtimeconfig.json"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\Newtonsoft.Json.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\SevenZip.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\System.Security.Cryptography.ProtectedData.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\XboxAuthNet.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\XboxAuthNet.Game.dll"/>
+					<File Source="..\MineSharp\bin\Release\net9.0\win-x64\XboxAuthNet.Game.Msal.dll"/>
+				</Component>
+			</ComponentGroup>
+	</Fragment>
+</Wix>

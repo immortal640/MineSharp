@@ -10,22 +10,19 @@
   <component name="ChangeListManager">
     <list default="true" id="63cdd83e-d009-4c81-8b40-9592aed88bd0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MineSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MineSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/AppResources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/AppResources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/AppResources.de-de.resx" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/AppResources.de-de.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/AppResources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/AppResources.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/de-de/MineSharp.resources.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AppResources.de-de.resources" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AppResources.de-de.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp/MineSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/MineSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/MineSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/MineSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/de-de/MineSharp.resources.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/ref/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/ref/MineSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/refint/MineSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MineSharp/obj/Release/net9.0/refint/MineSharp.dll" afterDir="false" />
@@ -41,7 +38,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/source/repos/CGUI" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -89,28 +86,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.MineSharp.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Publish to folder.Publish MineSharp to folder.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.MineSharp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Publish to folder.MineSharp Publish.executor&quot;: &quot;Run&quot;,
+    &quot;Publish to folder.Publish MineSharp to folder.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Publish to folder.Publish MineSharp to folder">
-    <configuration name="Publish MineSharp to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
-      <riderPublish configuration="Release" delete_existing_files="true" include_all_content_for_self_extract="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/win-x64/publish" target_framework="net9.0" uuid_high="4772468679286081700" uuid_low="-6982094109476895966" />
+}</component>
+  <component name="RunManager" selected="Publish to folder.MineSharp Publish">
+    <configuration name="MineSharp Publish" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish configuration="Release" delete_existing_files="true" platform="Any CPU" ready_to_run="true" target_folder="$PROJECT_DIR$/MineSharp/bin/Release/net9.0/win-x64" target_framework="net9.0" uuid_high="4772468679286081700" uuid_low="-6982094109476895966">
+        <runtimes>
+          <item value="win-x64" />
+        </runtimes>
+      </riderPublish>
       <method v="2" />
     </configuration>
     <configuration name="MineSharp" type="DotNetProject" factoryName=".NET Project">
@@ -122,10 +124,10 @@
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
       <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="RUNTIME_TYPE" value="coreclr" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/MineSharp/MineSharp.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
@@ -146,10 +148,10 @@
       <option name="ENV_FILE_PATHS" value="" />
       <option name="REDIRECT_INPUT_PATH" value="" />
       <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="AUTO_ATTACH_CHILDREN" value="0" />
-      <option name="MIXED_MODE_DEBUG" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/MineSharpStarter/MineSharpStarter.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
@@ -163,7 +165,7 @@
     <list>
       <item itemvalue=".NET Project.MineSharp" />
       <item itemvalue=".NET Project.MineSharpStarter" />
-      <item itemvalue="Publish to folder.Publish MineSharp to folder" />
+      <item itemvalue="Publish to folder.MineSharp Publish" />
     </list>
   </component>
   <component name="TaskManager">
@@ -217,6 +219,13 @@
       <workItem from="1756989296592" duration="1265000" />
       <workItem from="1756993424006" duration="1965000" />
       <workItem from="1756995582759" duration="7678000" />
+      <workItem from="1757021638535" duration="386000" />
+      <workItem from="1757072359524" duration="106000" />
+      <workItem from="1757072511240" duration="1382000" />
+      <workItem from="1757075457992" duration="2797000" />
+      <workItem from="1757087137554" duration="1641000" />
+      <workItem from="1757162154396" duration="146000" />
+      <workItem from="1757162471168" duration="4110000" />
     </task>
     <task id="LOCAL−00001" summary="Idk anymore...">
       <option name="closed" value="true" />
