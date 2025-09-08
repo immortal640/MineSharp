@@ -1,7 +1,5 @@
 # MineSharp
 
-[Skip to Installation](#installation)
-
 ## What does it do?
 
 MineSharp is a simple and quite bad looking Minecraft Launcher, written in C#.\
@@ -20,8 +18,6 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 | Memory       |       128 MiB       |           8 GiB           |
 
 ## Installation
-
-[Skip to Post Install](#post-install)
 
 ### Pre Install
 
