@@ -9,8 +9,6 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 
 ## System Requirements
 
-### Launcher
-
 |              |       Minimum       |        Recommended        |
 | :----------- | :-----------------: | :-----------------------: |
 | OS           | Windows 7 or higher | Windows 10 22H2 or higher |
