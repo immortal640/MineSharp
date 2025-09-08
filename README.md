@@ -32,6 +32,11 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 
 ## Installation
 
+[Install with Installer (recommended)](#installer)<br>
+[Install manually (portable)](#portable)
+
+### Installer
+
 1. Download `MineSharp.Install.msi` from the [releases tab](https://github.com/immortal640/MineSharp/releases) (expand "Assets").
 
 2. Run the Installer.
@@ -44,8 +49,24 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 
 4. You will be presented with the MineSharp Setup Wizard. Follow the setup wizard's instructions to continue. Now you should have successfully installed MineSharp!
 
+### Portable
+
+1. Press the Windows Key to open the Start Menu, type "Terminal" and press enter.
+
+2. Click on the small arrow next to the new tab button and select "Settings".
+   ![Terminal Open Settings](images/installation/terminal-open-settings.jpg)
+
+3. Select `Windows Console Host` as the default terminal application.
+   ![Terminal Settings Default Terminal Application](images/installation/terminal-settings-default-terminal-application.jpg)
+
+4. You can now close the window.
+
+5. Download `MineSharp.zip` from the [releases tab](https://github.com/immortal640/MineSharp/releases) (expand "Assets").
+
+6. Extract the file to your desired location.
+
+7. Run the `MineSharp.exe`.
+
 > If you don't want to play cracked, select `Sign In` to log in with your microsoft account.
 
 The rest is pretty similar to any other launcher... Just way worse!
-
-\- Immortal640 and Kurayzumi
