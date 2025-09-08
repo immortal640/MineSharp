@@ -32,8 +32,7 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 
 ## Installation
 
-[Install with Installer (recommended)](#installer)<br>
-[Install manually (portable)](#portable)
+[Skip to Post Install](#post-install)
 
 ### Pre Install
 
