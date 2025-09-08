@@ -45,18 +45,6 @@ Everything works exacty like you would expect a GUI to work, but it's just... in
 3. Select `Windows Console Host` as the default terminal application.
    ![Terminal Settings Default Terminal Application](images/installation/terminal-settings-default-terminal-application.jpg)
 
-4. You can now close the window.
-
-5. Download `MineSharp.zip` from the [releases tab](https://github.com/immortal640/MineSharp/releases) (expand "Assets").
-
-6. Extract the file to your desired location.
-
-7. Run the `MineSharp.exe`.
-
-> If you don't want to play cracked, select `Sign In` to log in with your microsoft account.
-
-The rest is pretty similar to any other launcher... Just way worse!
-
 ### Installer
 
 1. Download `MineSharp.Install.msi` from the [releases tab](https://github.com/immortal640/MineSharp/releases) (expand "Assets").
@@ -70,3 +58,7 @@ The rest is pretty similar to any other launcher... Just way worse!
    > To get certified developers usually need to purchase a certificate from a Certificate Authority (CA), which can cost between 100€ and 500€ anually. This is just not feasable for a hobby project.
 
 4. You will be presented with the MineSharp Setup Wizard. Follow the setup wizard's instructions to continue. Now you should have successfully installed MineSharp!
+
+> If you don't want to play cracked, select `Sign In` to log in with your microsoft account.
+
+The rest is pretty similar to any other launcher... Just way worse!
